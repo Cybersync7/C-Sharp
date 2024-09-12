@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\bin\Debug\net8.0\Algorithms.exe
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\bin\Debug\net8.0\Algorithms.deps.json
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\bin\Debug\net8.0\Algorithms.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\bin\Debug\net8.0\Algorithms.dll
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\bin\Debug\net8.0\Algorithms.pdb
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.dll
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\refint\Algorithms.dll
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.pdb
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\Algorithms.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\CyberRepo\Csharp\Algorithms\obj\Debug\net8.0\ref\Algorithms.dll
